@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://bv2jlsdrmkdrj"]
+
+[ext_resource type="PackedScene" uid="uid://c3yj4yh87hf78" path="res://riverscene.tscn" id="1_o02vu"]
+
+[node name="Node2D" type="Node2D" unique_id=2101765803]
+
+[node name="Node2D" parent="." unique_id=1846089157 instance=ExtResource("1_o02vu")]
+position = Vector2(1, 2)
+scale = Vector2(2, 2)
